@@ -76,9 +76,7 @@ Full Stack Developer | Flutter Developer | Backend Engineer
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=arjun3826&theme=tokyonight">
-
+  <img src="https://streak-stats.demolab.com?user=arjun3826&theme=github-dark&hide_border=true" />
 </p>
 
 ---
