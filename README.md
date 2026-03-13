@@ -86,9 +86,8 @@ Building scalable mobile apps and backend systems
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master-rjy.vercel.app/?username=arjun3826&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=arjun3826&theme=darkhub&no-frame=true&column=6" />
 </p>
-
 ---
 
 ## 🚀 Projects
