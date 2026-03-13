@@ -7,8 +7,8 @@ Full Stack Developer | Flutter Developer | Backend Engineer
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social">
+<a href="https://github.com/arjun3826">
+<img src="https://img.shields.io/github/followers/arjun3826?label=Follow&style=social">
 </a>
 </p>
 
@@ -50,9 +50,9 @@ Full Stack Developer | Flutter Developer | Backend Engineer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=arjun3826&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun3826&layout=compact&theme=tokyonight">
 
 </p>
 
@@ -62,7 +62,7 @@ Full Stack Developer | Flutter Developer | Backend Engineer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight">
+<img src="https://streak-stats.demolab.com/?user=arjun3826&theme=tokyonight">
 
 </p>
 
@@ -99,15 +99,15 @@ Flutter • FastAPI • Laravel
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/arjun3826">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/arjun-vanshkar-a10a79286">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:arjunvanshkar33@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
