@@ -88,7 +88,6 @@ Building scalable mobile apps and backend systems
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=arjun3826&theme=darkhub&no-frame=true&column=6" />
 </p>
----
 
 ## 🚀 Projects
 
