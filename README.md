@@ -3,12 +3,8 @@
 <h1 align="center">Hi 👋, I'm Arjun Vanshkar</h1>
 
 <p align="center">
-Full Stack Developer | Flutter Developer | Backend Engineer
-</p>
-
-<p align="center">
-<a href="https://github.com/arjun3826">
-<img src="https://img.shields.io/github/followers/arjun3826?label=Follow&style=social">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Flutter+Developer;Laravel+Backend+Developer;FastAPI+Developer;Full+Stack+Engineer;Building+Scalable+Applications">
 </a>
 </p>
 
