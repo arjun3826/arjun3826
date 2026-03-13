@@ -83,6 +83,14 @@ Building scalable mobile apps and backend systems
 
 ---
 
+# 🔥 GitHub Achievement
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arjun3826&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 # 🚀 Projects
 
 ### AI Smart Content Analyzer
