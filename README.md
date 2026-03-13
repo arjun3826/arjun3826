@@ -76,13 +76,13 @@ Full Stack Developer | Flutter Developer | Backend Engineer
 # 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunvanshkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arjun3826&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvanshkar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun3826&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=arjunvanshkar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=arjun3826&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
