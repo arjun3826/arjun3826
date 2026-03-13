@@ -1,124 +1,118 @@
+<!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Arjun Vanshkar</h1>
-<h3 align="center">Full Stack Developer | Flutter | Laravel | FastAPI | AI Integration</h3>
 
 <p align="center">
-🚀 Passionate about building scalable apps, APIs, and AI-powered solutions.
+Full Stack Developer | Flutter Developer | Backend Engineer
+</p>
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social">
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🔭 Currently working on **Flutter + Laravel + FastAPI projects**
-- 🌱 Learning **AI, PyTorch, and Microservices Architecture**
-- 💬 Ask me about **Flutter, Laravel, API Development, WebSockets, Firebase**
-- ⚡ Love building **real-time apps, chat systems, and scalable backends**
-- 📫 Reach me at: **your-email@example.com**
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-- Dart
-- PHP
-- Python
-- JavaScript
-- C++
-
-### 📱 Mobile Development
-- Flutter
-- Firebase
-- WebRTC
-- Push Notifications
-
-### 🌐 Backend Development
-- Laravel
-- FastAPI
-- NestJS
-- REST APIs
-- GraphQL
-
-### ⚡ Realtime & Messaging
-- WebSockets
-- Firebase Realtime Chat
-- MQTT
-
-### 🗄 Databases
-- MySQL
-- PostgreSQL
-- Firebase Firestore
-
-### ☁ DevOps & Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- Swagger / OpenAPI
+- 💻 Full Stack Developer  
+- 📱 Flutter Mobile Developer  
+- ⚡ Backend Developer (Laravel & FastAPI)  
+- 🤖 Interested in AI & Automation  
+- 🚀 Building real-time applications  
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+### Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ---
 
-## 🔥 Most Used Languages
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
 
-## 🧠 Current Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
 
-- 🤖 Artificial Intelligence Integration
-- 🧠 PyTorch
-- ⚡ Microservices Architecture
-- 📡 WebSocket Real-time Systems
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🔥 GitHub Streak
 
-### 🚀 AI Smart Content Analyzer
-AI-powered API for:
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight">
+
+</p>
+
+---
+
+# 🚀 Projects
+
+### AI Smart Content Analyzer
+AI API that performs:
+
 - Sentiment Analysis
 - Text Summarization
 - Keyword Extraction
 
-Tech Stack:
-`Laravel` `OpenAI API` `Queue Jobs`
+Tech Stack  
+Laravel • OpenAI API
 
 ---
 
-### 💬 Real-time Chat System
-Real-time messaging app using:
+### Real-Time Chat System
 
-- Flutter
-- WebSockets
-- Firebase
-- FastAPI
+Features:
 
----
+- WebSocket messaging
+- Firebase notifications
+- Chat history
 
-### 🤖 Robot Control App
-Flutter app to control robots using:
-
-- BLE
-- MQTT
-- Python backend
+Tech Stack  
+Flutter • FastAPI • Laravel
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ If you like my work, give a star to my repositories!
