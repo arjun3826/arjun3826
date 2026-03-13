@@ -77,7 +77,7 @@ Full Stack Developer | Flutter Developer | Backend Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun3826&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=arjun3826&theme=github-dark&hide_border=true" />
 </p>
 
 
